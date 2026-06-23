@@ -1,6 +1,6 @@
 # Thala7-Walk-Your-Way
 🍽️ Thala 7– It is a modern shoes e-commerce website built with HTML and CSS, featuring a stylish UI, product showcase, shopping cart, and coupon code functionality.
-html file: 
+html file: https://github.com/Yuvresh-Gavale/Thala7-Walk-Your-Way/blob/main/index.html
 <br>
 css file:  
 # Clone the repo

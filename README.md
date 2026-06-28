@@ -6,6 +6,8 @@ css file:  https://github.com/Yuvresh-Gavale/Thala7-Walk-Your-Way/blob/main/styl
 # Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/Thala7-Walk-Your-Way/edit/main/README.md
 <br>
+# Deployed Link
+deployed link: https://thala07shoesweb.netlify.app/
 # 🍽️ Thala-7 The shoes Website
 🚀 A clean and responsive shoe shopping website built using HTML5 and CSS3 with product display, cart section, and modern user experience.
 
